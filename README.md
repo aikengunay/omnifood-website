@@ -58,7 +58,7 @@ Through this project, I gained a strong foundation in:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/omnifood-website.git
+   git clone https://github.com/aikengunay/omnifood-website.git
    ```
 2. Open the `index.html` file in your preferred browser to view the website.
 
