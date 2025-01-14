@@ -69,7 +69,7 @@ Through this project, I gained a strong foundation in:
   - **Solution:** Leveraged CSS Grid for precise control over layout structure.
 
 ## Acknowledgments
-- Thanks to the [Udemy course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?utm_campaign=website1010&utm_medium=website1010&utm_source=mycoupon&couponCode=KEEPLEARNING) and its instructor for providing an excellent learning experience.
+- Thanks to the [Udemy course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?utm_campaign=website1010&utm_medium=website1010&utm_source=mycoupon&couponCode=KEEPLEARNING) and to Jonas Schmedtmann for providing an excellent learning experience.
 - Resources used:
   - Free images and icons from [Unsplash](https://unsplash.com), [ionicons](https://ionic.io/ionicons), [FontAwesome](https://fontawesome.com).
   - Web fonts from [Google Fonts](https://fonts.google.com).
