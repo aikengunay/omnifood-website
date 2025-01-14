@@ -46,7 +46,7 @@ Through this project, I gained a strong foundation in:
 5. **Plans Section:**
    - Pricing plans tailored for various needs.
 6. **Contact Section:**
-   - A responsive contact form for user inquiries.
+   - A responsive form integrated with `netlify` for data collection.
 
 ## Technologies Used
 - **HTML5:** Semantic and accessible markup.
@@ -71,7 +71,7 @@ Through this project, I gained a strong foundation in:
 ## Acknowledgments
 - Thanks to the [Udemy course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?utm_campaign=website1010&utm_medium=website1010&utm_source=mycoupon&couponCode=KEEPLEARNING) and its instructor for providing an excellent learning experience.
 - Resources used:
-  - Free images and icons from [Unsplash](https://unsplash.com) and [FontAwesome](https://fontawesome.com).
+  - Free images and icons from [Unsplash](https://unsplash.com), [ionicons](https://ionic.io/ionicons), [FontAwesome](https://fontawesome.com).
   - Web fonts from [Google Fonts](https://fonts.google.com).
 
 ## License
